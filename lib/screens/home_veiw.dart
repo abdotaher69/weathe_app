@@ -26,7 +26,8 @@ class HomeVeiw extends StatelessWidget {
         if(state is WeatherLoadedState){
           return WeatherInfo();
         }else if(state is WeatherErrorState){
-          return Center(child: Text("something went wrong please try again"));
+          return Center(child: Text("something went wrong please try again",
+          style: TextStyle(fontSize: 25,fontWeight: FontWeight.bold),));
         }
         else{
           return NoWeatherInfo();}
