@@ -1,16 +1,22 @@
 # weather_app
 
 A new Flutter project.
+* **City Search:** Search for weather information for any city by name.
+* **Temperature Display:** Shows temperature in Celsius and Fahrenheit.
+* **Weather Conditions:** Displays current weather conditions (e.g., sunny, cloudy, rainy).
+* **Responsive UI:** Adapts to different screen sizes.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* **Flutter:** UI Toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+* **OpenWeatherMap API:** Used to fetch weather data. (You'll need to sign up for a free API key)
+* **dio:** For making network requests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+vedio link of app
+https://drive.google.com/file/d/1K0BKhN6GmRhxG7Wa7WWKJBqdTCoTDU99/view?usp=drivesdk
+
+
+
